@@ -1,6 +1,7 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### NAME: BHUMIREDDY LAKSHMI VARDHAN REDDY
+### REG NO: 212223240016
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
